@@ -1,0 +1,30 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Montserrat";
+  height: 100vh;
+  background-color: bisque;
+}
+.head {
+  text-decoration: underline;
+  font-size: 40px;
+  padding-top: 20px;
+}
+.input {
+  width: 250px;
+  height: 25px;
+  border-radius: 5px;
+  padding-left: 15px;
+}
+.but {
+  background-color: blue;
+  border-width: 0px;
+  color: #fff;
+  border-radius: 5px;
+  height: 25px;
+  width: 120px;
+  margin-top: 25px;
+  font-size: 15px;
+  cursor: pointer;
+}
